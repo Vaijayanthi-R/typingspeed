@@ -1,7 +1,8 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background-color:#bfc1bb;
+  text-align: center;
 }
 
 .app {
@@ -10,7 +11,7 @@ body {
 }
 
 .text-display {
-  background: white;
+  background: rgb(72, 38, 38);
   padding: 20px;
   border-radius: 10px;
   margin-bottom: 20px;
@@ -26,7 +27,7 @@ textarea {
 
 .results {
   margin-top: 20px;
-  background: #fff;
+  background: #b2b8ba;
   padding: 15px;
   border-radius: 8px;
   display: inline-block;
